@@ -1,16 +1,1 @@
-##div[class]:has(div[class]:has(.fa-2x))
-animevsub.tv$$script[tag-content="alert('R.I.P n hacked! ^^');"]
-truyensieuhay.com$generichide
-||m.truyensieuhay.com/Scripts/ads_vdc.js*$domain=m.truyensieuhay.com
-##a[class="btn btn-info"]:contains(Đóng quảng cáo)
-###adsense_header
-###adsense_insert
-###adsense_center
-##div[class="top-click ads"]
-||vivaclix.com^
-##div[class^="preload preload-11bet pre-"]
-||trackyourass*.club^
-||libedgolart.com^
-###hide_catfish
-||qc.vic.vin$popup
-##ul[class="adv"]:has(li)
+Jsjajsbsbbbsbs
