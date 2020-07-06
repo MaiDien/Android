@@ -1,16 +1,14 @@
-##div[class]:has(div[class]:has(.fa-2x))
-animevsub.tv$$script[tag-content="alert('R.I.P n hacked! ^^');"]
-truyensieuhay.com$generichide
-||m.truyensieuhay.com/Scripts/ads_vdc.js*$domain=m.truyensieuhay.com
-##a[class="btn btn-info"]:contains(Đóng quảng cáo)
-###adsense_header
-###adsense_insert
-###adsense_center
-##div[class="top-click ads"]
-||vivaclix.com^
-##div[class^="preload preload-11bet pre-"]
-||trackyourass*.club^
-||libedgolart.com^
-###hide_catfish
-||qc.vic.vin$popup
-##ul[class="adv"]:has(li)
+||googleads.g.doubleclick.net^
+||tpc.googlesyndication.com^
+||pagead2.googlesyndication.com^
+||stats.g.doubleclick.net^
+||google.com/ads^
+||popads.net^
+||www.google-analytics.com^
+||adsco.re^
+##img[src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_728,h_90/https://meobietbay.com/wp-content/uploads/2020/07/0b789628e8e7fc4000e1e753e3270f10.jpg"]
+||admicro.vn^
+||yomedia.vn^
+||iamcdn.net/players/ads*
+||unreshiramor.com^$popup
+||inpagepush.com^
