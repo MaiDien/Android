@@ -1,3 +1,36 @@
+||crwdcntrl.net^
+||pubmatic.com^
+||gammaplatform.com^
+||adform.net^
+||lavanetwork.net^
+||adservice.google.com^
+||s0.2mdn.net^
+||imasdk.googleapis.com^
+||pubads.g.doubleclick.net^
+animevsub.tv$$script[tag-content="alert('R.I.P n hacked! ^^');"]
+||animevsub.tv/ads^
+||animevsub.tv/img/320x50-11B.gif
+||animevsub.tv/img/300x50-sw50k-new.gif
+||animevsub.tv/img/300x250-zw2.gif?v=1.0
+||animevsub.tv/img/300x250-8live-new.gif
+||animevsub.tv/img/320x50.gif?v=2.2
+||animevsub.tv/img/320x50-zw2.gif?v=1.0
+||adfly.vn^
+||exdynsrv.com^
+||s.truyenchon.com/data/sites/1/banner/300x250-top.gif
+||s.truyenchon.com/data/sites/1/banner/300x250.gif?v=1
+||bebi.com^
+||bidgear.com^
+||adskeeper.co.uk^
+##div[class="text-center mrb5"]:has(a[class="btn btn-info"]:contains(Đóng quảng cáo))
+||a9.fmax.xyz^
+||adpia.vn^
+||cpmstar.com^
+||d24ak3f2b.top^
+||nta1vb6cdlrl.com^$popup
+||w00ur5z9jy3a.com^$popup
+||coolcpms.com^
+||itnuzleafan.com^$popup
 ||googleads.g.doubleclick.net^
 ||tpc.googlesyndication.com^
 ||pagead2.googlesyndication.com^
