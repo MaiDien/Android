@@ -1,3 +1,10 @@
+||truyensieuhay.com/Scripts/ads*
+##iframe[src*="ads_300_"]
+||agacelebir.com^$popup
+||moatads.com^
+||addthis.com^
+||infolinks.com^
+||adsrvr.org^
 ||crwdcntrl.net^
 ||pubmatic.com^
 ||gammaplatform.com^
