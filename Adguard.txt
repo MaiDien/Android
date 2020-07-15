@@ -1,0 +1,5 @@
+hentaiz.net##a[href*="taimacau"]
+hentaiz.net##span:contains(Nhấp quảng cáo để duy trì web nhé)
+hentaiz.net##div[id^="rmcard"][class^="card bg-dark text-white mb-"][style="margin:0 10px 0 10px"]
+hentaiz.net##a[href*="tai789.net"]
+hentaiz.net##a[href*="11bet.win"]
