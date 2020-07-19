@@ -1,3 +1,16 @@
+||faracoon.com^$document
+||syndication.exosrv.com^$document,important
+old.camcam.cc$$script[tag-content="popMagic.init(adConfig);"]
+||unreshiramor.com^$document,important
+animevsub.tv$$script[tag-content="alert('R.I.P n hacked! ^^');"]
+||lon88.net/ajax.php?pop=1
+||vivaclix.com^
+##div.balloon-ck:has(#hide_balloon_left:has(a[href="javascript:hide_balloon_left()"]:contains(Tắt Quảng Cáo [X])))
+||traceclck.com^
+||sexdep.com/ajax.php?pop=1
+||javnong.com/Theme/js/poup.js?ver=1.6
+||javnong.com/Theme/js/catfix-bet.js?ver=1.7
+##.banner
 hentaiz.net##a[href*="taimacau"]
 hentaiz.net##span:contains(Nhấp quảng cáo để duy trì web nhé)
 hentaiz.net##div[id^="rmcard"][class^="card bg-dark text-white mb-"][style="margin:0 10px 0 10px"]
