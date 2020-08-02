@@ -1,3 +1,8 @@
+||adskeeper.co.*^
+##div[class^="ad c-ads custom-code body"]
+##div[id^="M"][id*="ScriptRootC"]
+||securepubads.g.doubleclick.net^
+||www.google.com.*/ads^
 ||popads.net^
 ||stats.g.doubleclick.net^
 ||adsco.re^
