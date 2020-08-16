@@ -1,3 +1,22 @@
+###ads-taboola-truyen
+||rangsunbaa.com^
+||feed-xml.com^
+||joyekepus.online^
+||truyentranhhot.net/Resources/Advertises/300x250-nhatvip.gif
+||truyentranh1.info/Resources/Advertises/Top-Mobile.gif
+###cBalloonMobi
+||truyentranh1.info/Resources/Advertises/300x250-b52.gif
+||mellowads.com^
+||fryruejoust.cam^$document
+||beenmeekwarmth.casa^
+||allmobtip.com^
+||exdynsrv.com^
+||s.truyenchon.com/data/sites/1/banner/300x250-top.gif
+##div[class="text-center mrt5 mrb5"]:has(div[class="text-center mrb5"]:has(a[class="btn btn-info"]:contains(Đóng quảng cáo)))
+||bebi.com^
+||bidgear.com^
+||2mdnsys.com^
+###arlinablock
 ||smaato.net^
 ||rayjump.com^
 ||criteo.com^
