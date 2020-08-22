@@ -1,3 +1,16 @@
+||grooksom.com^
+||unreshiramor.com^$popup,important
+||statically.io^
+||ad.org.vn^
+||wikidich.com/static/js/adx^
+||quantrimang.com/cache.aspx?_path=http://meta.vn*
+||gamevui.com^
+||quantrimang.com/get.aspx*
+||adrealclick.com^
+||meta.com.vn^
+||realclick.vn^
+##div[id^="adsposttop"]
+##.adsbygoogle
 ||mangaqq.com/qc-new/five88-top.gif
 ||mangaqq.com/qc-new/nbet-1.gif
 ||mangaqq.com/qc-new/320x50-gamebai-b52.gif
