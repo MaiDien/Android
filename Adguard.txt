@@ -1,3 +1,46 @@
+||histats.com^
+||truyencv.com/quang-cao^
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Tổng Tài"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Tối Cường"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="tối cường"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title$="Chúa tể học đường"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title$="Sự Trỗi Dậy Của Anh Hùng Khiên"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Cực Phẩm"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Nam Thần"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Luyến Ái"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Tuyệt Thế"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Phúc Hắc"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Tuyệt Phẩm"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Kim Bài"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Siêu Phẩm"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Sủng Thê"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Thần Y"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Siêu Cấp"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Công chúa"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Thần y"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Công Chúa"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Hệ Thống X Toàn Năng"])))
+##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Hộ Hoa"])))
+||cpmstar.com^
+||check-message.live^
+||prepenseprepensedefiance.com^$popup
+||itnuzleafan.com^$popup
+||d24ak3f2b.top^
+||kka20si.xyz^
+||www.fembed.com/asset/bann.js*
+||feurl.com/asset/bann.js*
+||123phim.top/asset/bann.js*
+||jads.co^
+old.camcam.cc$$script[tag-content="popMagic.init(adConfig);"]
+##div[class="mobiletop"]:has(script[src*="exosrv.com"])
+##div[class^="after-post-ads"]
+##div[class^="spot block"]
+##div[class="contain refill"]:has(div[class="c-denomination"]:has(div[class="c-medtitle-output"]:has(h2[class="c-normdenomination-output"]:contains(ADVERTISEMENT))))
+apkmirror.com$$script[tag-content="clearInterval( timerInterval );"]
+||crsspxl.com^
+||ethicalads.io^
+||carbonads.net^
+###script-show-info-ad
 ||grooksom.com^
 ||unreshiramor.com^$popup,important
 ||statically.io^
