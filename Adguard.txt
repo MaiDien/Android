@@ -1,3 +1,15 @@
+||zplayer-trk.zdn.vn/trackztv?visitor=*userAgent=*
+||adsplay.net^
+##div[class="--z--boxy-wrapper --z--login-form"]:has(div[class="--z--boxy"]:has(div[class="--z--boxy-content"]:has(div[class="--z--content-title"]:contains(Đăng nhập ngay để trải nghiệm tính năng))))
+||zjs.zadn.vn/zplayer/ads*
+||adtimaserver.vn^
+||adsafeprotected.com^
+||bid.g.doubleclick.net^
+||temposnitehah.work^
+||barfsmiaowpit.com^
+||bluemaulpuffs.com^
+||pusbaysgreedy.icu^
+##a[href*="five88.biz"]
 ||histats.com^
 ||truyencv.com/quang-cao^
 ##div[class="item"]:has(figure[class="clearfix"]:has(div[class="image"]:has(a[title*="Tổng Tài"])))
