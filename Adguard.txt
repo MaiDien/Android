@@ -1,3 +1,7 @@
+||static.cdnno.com/storage/app_android.jpg?v=*
+hvdic.thivien.net##div[class]:contains(Quảng cáo có thể đã bị chặn)
+##div[class^="text-center mrt"]:has(div[class^="text-center mrb"]:has(a:contains(Đóng quảng cáo)))
+##a.download_app_fixed
 ||zplayer-trk.zdn.vn/trackztv?visitor=*userAgent=*
 ||adsplay.net^
 ##div[class="--z--boxy-wrapper --z--login-form"]:has(div[class="--z--boxy"]:has(div[class="--z--boxy-content"]:has(div[class="--z--content-title"]:contains(Đăng nhập ngay để trải nghiệm tính năng))))
