@@ -1,3 +1,5 @@
+##div[class="policy-info"]:contains(We use cookies)
+||trackpush.com^
 ||static.cdnno.com/storage/app_android.jpg?v=*
 hvdic.thivien.net##div[class]:contains(Quảng cáo có thể đã bị chặn)
 ##div[class^="text-center mrt"]:has(div[class^="text-center mrb"]:has(a:contains(Đóng quảng cáo)))
