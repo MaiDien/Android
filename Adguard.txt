@@ -1,3 +1,28 @@
+truyenyy.vn##a[class="weui-media-box weui-media-box_appmsg"]:has(div[class="weui-media-box__bd"]:has(div[class="small mt-2"]:has(span[class="badge badge-outline primary mb-2"]:contains(Sắc Hiệp))))
+truyenyy.vn##a[class="weui-media-box weui-media-box_appmsg"]:has(div[class="weui-media-box__bd"]:has(div[class="small mt-2"]:has(span[class="badge badge-outline primary mb-2"]:contains(Ngôn Tình))))
+truyenyy.vn##a[class="weui-media-box weui-media-box_appmsg"]:has(div[class="weui-media-box__bd"]:has(div[class="small mt-2"]:has(span[class="badge badge-outline primary mb-2"]:contains(Đam Mỹ))))
+truyenyy.vn##a[class="weui-media-box weui-media-box_appmsg"]:has(div[class="weui-media-box__bd"]:has(div[class="small mt-2"]:has(span[class="badge badge-outline primary mb-2"]:contains(Sắc))))
+||www.minhngoc.net.vn^$domain=gaixinh18.com
+||gaixinh18.com/wp-content/uploads/2020/09/banner-320x50-iwin-v3.gif
+||gaixinh18.com/wp-content/uploads/2020/09/banner-728x90-naga.gif
+||gaixinh18.com/wp-content/uploads/2020/09/banner-320x50-goal123-v1.gif
+||gaixinh18.com/wp-content/uploads/2020/09/banner-728x90-vnd188.gif
+||gaixinh18.com/wp-content/uploads/2020/10/banner-320x50-sbo-10012020.gif
+||gaixinh18.com/wp-content/uploads/2020/08/banner-300x50-v7ba.gif
+||gaixinh18.com/wp-content/uploads/2020/09/banner-320x50-bong99.gif
+||gaixinh18.com/wp-content/uploads/2020/08/728x90-b29.gif
+||gaixinh18.com/wp-content/uploads/2020/09/banner-win96-v2.gif
+||gaixinh18.com/wp-content/uploads/2020/09/banner-728x90-goal123-v1.gif
+||gaixinh18.com/wp-content/uploads/2020/09/banner-left-goal123.gif
+||gaixinh18.com/wp-content/uploads/2020/10/banner-728x90-sbo-10012020.gif
+||gaixinh18.com/wp-content/uploads/2020/08/300x250-b29.gif
+||gaixinh18.com/wp-content/uploads/2020/09/banner-right-goal123.gif
+||gaixinh18.com/wp-content/uploads/2020/09/banner-600x400-naga.gif
+##a[href="https://bit.ly/gaixinh18-nagatop"]
+||addthis.com^
+||addthisedge.com^
+||a-ads.com^
+||quantumprimeaff.com^
 ||bttrack.com^
 ||taboola.com^
 ||mookie*.com^
