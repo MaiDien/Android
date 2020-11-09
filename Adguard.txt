@@ -1,3 +1,54 @@
+||ads.pro-market.net^
+||derevya2sh8ka09.com^
+||sexviet.xxx/ads^$domain=sexviet.xxx
+##div[class^="text-center nh-read__alert"]:has(a[href*="pub.truyen.onl"])
+##div[class^="text-center bg-light nh-read__alert"]:has(a[href*="pub.truyen.onl"])
+||adxpub.com^
+||in-page-push.com^
+||rtmark.net^
+||tolyafbnjt9dedjj10.com^
+||sexmoi.xxx/viva/ads.js
+||sexmoi.xxx/betads/728-x-90.gif
+||sexmoi.xxx/viva/u-win.gif
+||gladiol9us10.com^$popup
+||gladiol9us10.com^$domain=3xhay.com
+||vivaclix.com^
+||phimsextv.net/ads^
+||romashk9arfk10.com^$domain=phimsextv.net
+||romashk9arfk10.com^$popup
+||drawbacksubdue.com^
+||gnatgrocery.com^
+||hornsbundlebetter.com^
+||trafficfactory.biz^
+||cosmeticsgenerosity.com^
+||xemphimsex.me/viva/topmobile.js
+||romashk9arfk10.com^
+||xemphimsex.me/viva/ads.js
+||traffichaus.com^
+||www.minhngoc.net.vn^$domain=gaixinh18z.com
+||gaixinh18z.com/wp-content/uploads/*/*/banner*
+||vatphamphongthuy.co/ads^
+||www.danhbawebsitehay.com/wp-content/uploads/*/*/banner*
+||vatphamphongthuy.co^$domain=anhgaisexy.vaileu.com
+||nhadatso.com^
+||xehoiviet.com^$domain=anhgaisexy.vaileu.com
+||truyentv.net/t2.gif
+||truyentv.net/11bet.gif
+||truyentv.net/gaigoi.gif
+||truyentv.net/8live.gif
+||truyentv.net/uwin.gif
+||truyentv.net/b2.gif
+||truyentv.net/hot.gif
+||truyentv.net/ditmanh2.jpg
+||truyentv.net/lx88.gif
+||truyentv.net/gaixinh.gif
+||azoaltou.com^
+||paychat.fuse-cloud.com^
+||rompuwit.net^
+||jomtingi.net^
+||denetsuk.com^
+||propeller-tracking.com^
+||thefreshposts.com^
 truyenyy.vn##a[class="weui-media-box weui-media-box_appmsg"]:has(div[class="weui-media-box__bd"]:has(div[class="small mt-2"]:has(span[class="badge badge-outline primary mb-2"]:contains(Sắc Hiệp))))
 truyenyy.vn##a[class="weui-media-box weui-media-box_appmsg"]:has(div[class="weui-media-box__bd"]:has(div[class="small mt-2"]:has(span[class="badge badge-outline primary mb-2"]:contains(Ngôn Tình))))
 truyenyy.vn##a[class="weui-media-box weui-media-box_appmsg"]:has(div[class="weui-media-box__bd"]:has(div[class="small mt-2"]:has(span[class="badge badge-outline primary mb-2"]:contains(Đam Mỹ))))
