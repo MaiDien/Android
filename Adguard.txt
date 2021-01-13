@@ -1,3 +1,15 @@
+##div[id="image_popup_mobile_background"]
+||agacelebir.com^
+##a[href*="game.taib52.club"]
+||nbryb.com^
+3sex.maulon.net$$script[tag-content="popMagic.init(adConfig);"]
+||syndication.realsrv.com^$domain=syndication.realsrv.com
+||a.exosrv.com^$domain=3sex.maulon.net
+||syndication.exosrv.com^$domain=3sex.maulon.net
+##a[href*="bongacams.com"]
+##a[href*="phim.rik.vip"]
+||iads.vision^
+##div[id^="ads-chapter"]
 ##a[href*="aa88.in"]
 ||qc.coccoc.com^
 ||exobafrgdf.com^
