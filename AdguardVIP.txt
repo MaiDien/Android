@@ -1,0 +1,10 @@
+||metruyenchu.com/passback/mtc-adx-mb*
+||www.google-analytics.com^
+||aj1047.online^
+||flygame.io^
+||pagead2.googlesyndication.com^
+||adminplayer.sohatv.vn/resource/init-script/playerInitScript.js$domain=metruyenchu.com
+||stats.g.doubleclick.net^
+||steepto.com^
+||adskeeper.co.uk^
+||admicro.vn^
