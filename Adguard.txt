@@ -1,3 +1,9 @@
+myhentaiacademia.com$$script[tag-content="adConfig"]
+##div[class="mybook-game-ad mybook-ad-lazy"]
+##a[href*="8live.fun"]
+##a[href*="lixi88.info"]
+||moddroid.com^$document
+||apk4all.com^$document
 www.narutohentaidb.com$$script[src="/8e88d1d76e20.js"]
 www.narutohentaidb.com$$script[tag-content="init-popup"]
 ##div[class="Ads ad-center-header"]
