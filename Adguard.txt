@@ -1,3 +1,14 @@
+||web.facebook.com^$app=xyz.kicu.animevsub
+||byteoversea.com^
+||sgsnssdk.com^
+||ibytedtos.com^
+||graph.facebook.com^$app=xyz.kicu.animevsub
+||www.facebook.com^$app=xyz.kicu.animevsub
+@@||geoip.redirect-ads.com^$generichide
+##div[class^="item"]:has(a[href*="timviec.com.vn"])
+##div[class="title-list"]:has(h2:contains(Liên kết))
+##div[class="col-xs-12 col-sm-12 tag-list"]
+hamtruyentranh.net$$script[src="skins/news/js/ads_mobi.js"]
 myhentaiacademia.com$$script[tag-content="adConfig"]
 ##div[class="mybook-game-ad mybook-ad-lazy"]
 ##a[href*="8live.fun"]
