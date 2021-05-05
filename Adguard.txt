@@ -1,3 +1,10 @@
+||tailieudientu.lrc.tnu.edu.vn^$document
+||vietbooks.info^$document
+||khotrithucso.com^$document
+##a[href*="bom.to"]
+||allhottoss.cam^
+||gillheapsyears.icu^
+||obeysatman.com^
 ||web.facebook.com^$app=xyz.kicu.animevsub
 ||byteoversea.com^
 ||sgsnssdk.com^
