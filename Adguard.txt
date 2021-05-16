@@ -1,3 +1,5 @@
+wargame.wap.sh##div[style="z-index:999999;z-index:999999999;"]
+$$script[tag-content="roll_ads();"]
 ||animehay.tv/load-episode.php?v=*&episode-id=*&film-id=*&token=*&ec=*&url=*
 ##a[href*="b52.win"]
 ##a[href*="sin88.com"]
