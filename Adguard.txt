@@ -1,3 +1,13 @@
+##div[class="row"]:has(div[class="col-lg-12 col-md-12 col-sm-12 col-xs-12"]:has(div[class="carousel slide"]:has(ol[class="carousel-indicators"])))
+##div[id^="index"][id$="bannermobile"]
+##div[class^="hidden-lg hidden-md hidden-sm"][class$="text-center"][id="imagentvmobile"]
+##div[class$="hidden-xs text-center"][id="imagentvdesktop"]
+##div[class$="hidden-sm hidden-xs text-center"][id="imageheaderdesktop"]
+##div[class^="hidden-lg hidden-md hidden-sm"][class$="text-center"][id="imagefootermobile"]
+##div[class^="hidden-lg hidden-md"][class$="text-center"][id="imageheadermobile"]
+##div[class$="hidden-sm hidden-xs text-center"][id="imageheaderdesktop"]
+##a[href$="bestporn.html"]
+##div[class="mb-1"]:has(small[class="text-muted"]:has(small:contains(— QUẢNG CÁO —)))
 wargame.wap.sh##div[style="z-index:999999;z-index:999999999;"]
 $$script[tag-content="roll_ads();"]
 ||animehay.tv/load-episode.php?v=*&episode-id=*&film-id=*&token=*&ec=*&url=*
