@@ -1,3 +1,5 @@
+##span[class="_3qY7y theme-light forced-theme-light"]
+##._3iC3H
 ##div[class^="mb-"][class*=" fz-"]:has(small[class="text-muted"]:has(small:contains(— QUẢNG CÁO —)))
 ##iframe[src="//metruyenchu.com/passback/mtc-adx-metruyenchu.com_300x250"]
 ##div[class="row"]:has(div[class="col-lg-12 col-md-12 col-sm-12 col-xs-12"]:has(div[class="carousel slide"]:has(ol[class="carousel-indicators"])))
