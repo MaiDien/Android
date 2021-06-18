@@ -1,3 +1,4 @@
+##div[class^="bg-info col-xs-"][class$="text-center box-notice mr-box"][style="padding: 8px;"]
 ##div[class="bg-info text-center box-notice"][style="padding: 8px"]
 ##span[class="_3qY7y theme-light forced-theme-light"]
 ##._3iC3H
