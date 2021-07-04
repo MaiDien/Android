@@ -1,3 +1,6 @@
+##a[href*="banners.com"]
+##a[href*="moonlive.tv"]
+##div[class="px-3 text-left"]
 ##img[src="https://phimsex69.xyz/ezgif-5-9921bf8295d9.gif"]
 ##div[class^="bg-info col-xs-"][class$="text-center box-notice mr-box"][style="padding: 8px;"]
 ##div[class="bg-info text-center box-notice"][style="padding: 8px"]
