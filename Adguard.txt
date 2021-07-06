@@ -1,3 +1,5 @@
+||www.xn--trngnh-e3a36i3dr353a.vn^$document
+||taiebook.club^$document
 ##a[href*="banners.com"]
 ##a[href*="moonlive.tv"]
 ##div[class="px-3 text-left"]
