@@ -1,3 +1,7 @@
+||analytics-track.bingotom.com^
+||lingotu.be^
+||adro.io^
+##a[href*="tonted.com"]
 ||www.xn--trngnh-e3a36i3dr353a.vn^$document
 ||taiebook.club^$document
 ##a[href*="banners.com"]
