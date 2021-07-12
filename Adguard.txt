@@ -1,3 +1,4 @@
+##img[src="https://vidian.me/images/lienhe.png"]
 ||analytics-track.bingotom.com^
 ||lingotu.be^
 ||adro.io^
