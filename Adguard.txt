@@ -1,3 +1,9 @@
+||sach-mien-phi-fb2.info^$document
+||taisachebook.com^$document
+||sachebook.win^$document
+||123downloadsach.club^$document
+||sach.tonirovkasamara.ru^$document
+##img[data-cfsrc="//static.cdnno.com/storage/app.jpg"]
 ##div[class="ad catfish-ad"]
 ##img[src="https://sieukhungz.net/wp-content/uploads/2021/07/320x100-winclub.jpg"]
 gaixinh18z.com$$script[tag-content="function popUnder1()"]
