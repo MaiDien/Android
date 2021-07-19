@@ -1,3 +1,5 @@
+||ebookee.com^$document
+laptrinhvb.net$$script[tag-content="#modaladblock"]
 ||sach-mien-phi-fb2.info^$document
 ||taisachebook.com^$document
 ||sachebook.win^$document
