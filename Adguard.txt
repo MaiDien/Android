@@ -1,3 +1,11 @@
+anhdungseo.com$$script[tag-content="function effb2618(a)"]
+##a[href*="fchat.vn"]
+##a[href*="ibiz.sukien.net"]
+||sach86.com^$document
+||diendantailieu.com^$document
+##img[src="styles/banner/1944553596988881931.png.png.png"]
+cupdf.com##div[class="cookies-popup active"]
+@@||cupdf.com^$generichide
 ||ebookee.com^$document
 laptrinhvb.net$$script[tag-content="#modaladblock"]
 ||sach-mien-phi-fb2.info^$document
