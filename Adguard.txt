@@ -1,3 +1,8 @@
+||xn--emp-wqa4709a.vn^$document
+||baochi123.info^$document
+||giaibaisgk.com^$document
+##img[src*="www.dtv-ebook.com/images/banner"]
+||www.xn--vnhbnh-zva89b.vn^$document
 ##a[href*="rutgon.me"]
 anhdungseo.com$$script[tag-content="function effb2618(a)"]
 ##a[href*="fchat.vn"]
