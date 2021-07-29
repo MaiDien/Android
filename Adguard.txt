@@ -1,3 +1,5 @@
+expertvn.com$$script[tag-content="document.getElementById('nHKcMLVuGxed').style.display='block';"]
+metaisach.com$$script[tag-content="function addEvent(obj,eventName,func)"]
 ||websach.com^$document
 ||getlinkfshare.com^$document
 ||linksvip.net^$document
