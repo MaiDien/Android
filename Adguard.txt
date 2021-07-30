@@ -1,3 +1,6 @@
+hvdic.thivien.net##div[class]:contains(Quảng cáo có thể đã bị chặn)
+||facebook.com^$app=vip.instanovel.story
+||facebook.com^$app=truyen88.net
 expertvn.com$$script[tag-content="document.getElementById('nHKcMLVuGxed').style.display='block';"]
 metaisach.com$$script[tag-content="function addEvent(obj,eventName,func)"]
 ||websach.com^$document
