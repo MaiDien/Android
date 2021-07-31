@@ -1,3 +1,4 @@
+###boxzilla-23868
 hvdic.thivien.net##div[class]:contains(Quảng cáo có thể đã bị chặn)
 ||facebook.com^$app=vip.instanovel.story
 ||facebook.com^$app=truyen88.net
