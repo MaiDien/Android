@@ -1,3 +1,9 @@
+||facebook.com^$app=com.lotus.reader
+||facebook.com^$app=com.xigua.reader
+||track.hailands.com/rest/ad^
+||facebook.com^$app=com.yushan.reader
+||sgbid.prod.sift.co^
+||soma-soma-elb-2731128.ap-southeast-1.elb.amazonaws.com^
 ###boxzilla-23868
 hvdic.thivien.net##div[class]:contains(Quảng cáo có thể đã bị chặn)
 ||facebook.com^$app=vip.instanovel.story
