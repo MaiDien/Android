@@ -1,3 +1,4 @@
+159.89.198.98$$script[tag-content="var _Hasync= _Hasync|| []"]
 ###popup_content
 m.blogtruyen.vn$$script[tag-content="function closePopupBeta()"]
 ||facebook.com^$app=com.lotus.reader
