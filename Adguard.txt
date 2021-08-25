@@ -1,3 +1,6 @@
+@@||forum.xda-developers.com/t/block-google-analytics.1164697^
+@@||forum.xda-developers.com/t/neodev-host-advanced-ads-tracking-block-ad-blocking-hosts.4102207^
+blackmod.net$$script[tag-content="function ads24hInpageBanner(e,t,i,o,a,n,l)"]
 forum.gocmod.com$$script[tag-content="(function(root,factory)"]
 159.89.198.98$$script[tag-content="var _Hasync= _Hasync|| []"]
 ###popup_content
