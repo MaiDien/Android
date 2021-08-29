@@ -5,7 +5,7 @@
 // @include áp dụng cho 123link
 // @author MaiDien
 // @match https://www.123link.*/*
-// @downloadURL 
+// @downloadURL https://github.com/MaiDien/Android/raw/master/B%E1%BB%8F%20qua%20th%E1%BB%9Di%20gian%20ch%E1%BB%9D.js
 // ==/UserScript==
 
 app_vars['counter_value']='0';
