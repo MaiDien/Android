@@ -1,3 +1,7 @@
+##a[href*="xtgem.com"]:has(img[style="width:auto !important;height:auto !important;"])
+www.ntlruby.com$$script[tag-content="window.adblock=!0};"]
+www.ngohoanganhtuan.net,www.code.pro.vn,www.quangninhbay.com,www.techplus.top$$script[tag-content="function downloadJSAtOnload()"]
+##div[class]:has(p:contains(Vui lòng thêm GocMod vào danh sách ngoại lệ hoặc tắt AdBlock.))
 @@||forum.xda-developers.com/t/block-google-analytics.1164697^
 @@||forum.xda-developers.com/t/neodev-host-advanced-ads-tracking-block-ad-blocking-hosts.4102207^
 blackmod.net$$script[tag-content="function ads24hInpageBanner(e,t,i,o,a,n,l)"]
