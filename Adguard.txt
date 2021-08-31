@@ -1,3 +1,6 @@
+###mobile-catfish-1
+##div[class="gx-banner full-page-ads"]
+###adsense_center
 vozforum.org$$script[tag-content="adsonfirst"]
 ##img[src="https://greenupload.com/images/2019/09/16/300x50_VietBet.gif"]
 forum.release-apk.com##.phpbb-ads-center
