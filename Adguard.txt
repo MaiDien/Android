@@ -1,3 +1,5 @@
+||apklord.com^$document
+||native-ad.net^
 ###mobile-catfish-1
 ##div[class="gx-banner full-page-ads"]
 ###adsense_center
