@@ -1,3 +1,4 @@
+##div.u-bottomFixer.js-bottomFixTarget
 ||apklord.com^$document
 ||native-ad.net^
 ###mobile-catfish-1
