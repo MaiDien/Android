@@ -5,7 +5,6 @@
 ###adsense_center
 vozforum.org$$script[tag-content="adsonfirst"]
 ##img[src="https://greenupload.com/images/2019/09/16/300x50_VietBet.gif"]
-forum.release-apk.com##.phpbb-ads-center
 ##a[href*="xtgem.com"]:has(img[style="width:auto !important;height:auto !important;"])
 www.ntlruby.com$$script[tag-content="window.adblock=!0};"]
 www.ngohoanganhtuan.net,www.code.pro.vn,www.quangninhbay.com,www.techplus.top$$script[tag-content="function downloadJSAtOnload()"]
