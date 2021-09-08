@@ -1,3 +1,5 @@
+##a[href*="man.club"]
+##a[href*="red88.uk"]
 ##div.u-bottomFixer.js-bottomFixTarget
 ||apklord.com^$document
 ||native-ad.net^
