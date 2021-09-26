@@ -1,3 +1,7 @@
+##.txt_adbyeclick
+##img[src="https://tailieu.vn/image/banners/681_1631929206.png"]
+##.blocker-tester
+###ads_mobile
 ##a[href*="man.club"]
 ##a[href*="red88.uk"]
 ##div.u-bottomFixer.js-bottomFixTarget
