@@ -1,3 +1,5 @@
+##.m-ads-header
+##a[href*="game.taib52.club"]
 ##.txt_adbyeclick
 ##img[src="https://tailieu.vn/image/banners/681_1631929206.png"]
 ##.blocker-tester
