@@ -1,3 +1,4 @@
+##center.nh-read__pagination>a[href*="vtruyen.com/truyen"]>img[src^="https://static.cdnno.com/storage/topbox"]
 ##.gnarty-offads.catfish-ck
 ###goadv.container
 ##a[href*="8live.top"]
