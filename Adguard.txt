@@ -1,3 +1,7 @@
+##.jsmWrapper.lozad.active-lazy-js
+##.bottom-reklam
+##.hide-over-1000.bottom-reklam.async-reklam-placeholder
+$$script[tag-content="popMagic.init(adConfig);"]
 ##div[class^="float-ck"]
 ##.adv-gplx
 ##.adv-cccd
