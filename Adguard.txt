@@ -1,3 +1,7 @@
+##.linkad
+###adv-forum-mobile-scroll
+docsachhay.club^$document
+##div[style="position:fixed;bottom:0;left:0;width:100%;z-index:100000;color:#fff;"]
 taisachpdf.net^$document
 sexchauau.org$$script[tag-content=".custom-model-main"]
 ##.jsmWrapper.lozad.active-lazy-js
