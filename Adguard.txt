@@ -1,3 +1,7 @@
+##a[href*="tai.rikvip.us"]
+##a[href*="iwin.club"]
+##a[href*="game.taib52.vin"]
+##a[href*="789a.club"]
 ##.linkad
 ###adv-forum-mobile-scroll
 docsachhay.club^$document
