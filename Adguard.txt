@@ -1,3 +1,8 @@
+##.advbox2
+##.advbox
+##.fads
+###ads.xads
+##a[href*="i9bet666.com"]
 ##a[href*="i9bet444.com"]
 ##a[href*="i9bet9.com"]
 ##a[href*="68b.club"]
