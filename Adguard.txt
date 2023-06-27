@@ -1,3 +1,8 @@
+app.trangchu.news$$script[tag-content="function SMart1()"]
+||jes.edu.vn^$document
+||www.tuhocielts.vn^$document
+tailieuhay.net$$script[tag-content="function downloadJSAtOnload()"]
+||nguyenvietxuan1997.blogspot.com^$document
 www.khotailieuonthi247.com$$script[tag-content="function(){function f()"]
 toancap1.com$$script[tag-content="function downloadJSAtOnload()"]
 taisachonthi.com$$script[tag-content="downloadJSAtOnload()"]
