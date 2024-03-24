@@ -1,3 +1,9 @@
+||pubsub.googleapis.com^$app=com.miui.cleaner
+||bhanh.wordpress.com^$document
+||vieclamvui.com^$document
+##a[href*="akishop.com.vn"]
+yhocdata.com##div[id*="zaz"]
+thptquocgia.edu.vn$$script[tag-content="function downloadJSAtOnload()"]
 app.trangchu.news$$script[tag-content="function SMart1()"]
 ||jes.edu.vn^$document
 ||www.tuhocielts.vn^$document
