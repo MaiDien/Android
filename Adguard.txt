@@ -1,3 +1,7 @@
+hoc247.net$$script[tag-content="var popupnum"]
+hoc247.net$$script[tag-content="var m3_u"]
+###nbv-pro-cookie-ify
+||familiarpyromaniasloping.com^$document
 ||xemsachhay.com^$document
 ##.popup_form
 sytu.vn$$script[tag-content="function getCookiex(cname)"]
